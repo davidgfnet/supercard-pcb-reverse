@@ -1,0 +1,2 @@
+src/ filter=lfs diff=lfs merge=lfs -text
+src/scans.xcf filter=lfs diff=lfs merge=lfs -text
